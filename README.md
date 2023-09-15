@@ -7,6 +7,7 @@
 🧠 I'm currently learning Back-End Development about DBMS...
 
 ![App Screenshot](https://media.tenor.com/CgGf-l5pQWcAAAAC/cat-heart-eyes-yoonmilkers.gif)
+![App Screenshot](https://media.tenor.com/CNI1fSM1XSoAAAAM/shocked-surprised.gif)
 
 
 ## 🛠 Skills
