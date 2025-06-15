@@ -1,9 +1,4 @@
 # 👋 Hi, I'm Fauzan Hafizh!
-
-![Profile Banner](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYndpNGx0ajNnd2YyOWN3MDcxOTh1bHBlYWRwd29uYmNkNGtlOW9rMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ADD4w6XgqLBJohQdBK/giphy.gif)
-
-## 🚀 About Me
-
 I'm a passionate **Fullstack Developer** who loves writing clean code and solving real-world problems through software. Currently a student at **SMKN 1 Cibinong**, where I explore the worlds of **web development**, **system architecture**, and **blockchain**.
 
 🛠 I love building things—from full-featured web/mobile apps to custom server environments on Ubuntu.
@@ -13,6 +8,8 @@ I'm a passionate **Fullstack Developer** who loves writing clean code and solvin
 ⚙️ I like writing code, developing things (like Ubuntu servers, DevOps setups), and diving deep into the blockchain ecosystem.
 
 ---
+
+![Profile Banner](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYndpNGx0ajNnd2YyOWN3MDcxOTh1bHBlYWRwd29uYmNkNGtlOW9rMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ADD4w6XgqLBJohQdBK/giphy.gif)
 
 ## 🛠 Skills & Tools
 
